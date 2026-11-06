@@ -37,4 +37,4 @@ The Pebble: Game of Nim project needs its separate Python API. For local develop
 
 ## Resume
 
-The hero's **Download my resume** button downloads the current PDF from `public/Antonio-Jr-V-Nerida-Resume.pdf`.
+The Developer **Download my resume** button downloads the current PDF from `public/Antonio-Jr-V-Nerida-Resume.pdf`.
